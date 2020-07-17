@@ -1,4 +1,4 @@
 function FindProxyForURL(url, host)
 {
-    SOCKS 192.168.1.1:8082; DIRECT
+    SOCKS 192.168.137.1:8889; DIRECT
 }
